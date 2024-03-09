@@ -105,6 +105,7 @@ Criando e manipulando Animais:
 Dica: Utilize `console.log()` para exibir as informações!
 
 **RESPOSTA**
+<br>
 // cria classe animal
 class Animal {
     // contrutor da classe
@@ -130,7 +131,7 @@ console.log(cachorro.descrever())
 let gato = new Animal('Bolinha', 3);
 // printa descrição no terminal
 console.log(gato.descrever())
-
+<br>
 ______
 
 **8)** Nos últimos dias tivemos a oportunidade de ter contato com Programação Orientada a Objetos, e tivemos contato com o tema "herança". Herança é um princípio de orientação a objetos, que permite que classes compartilhem atributos e métodos. Ela é usada na intenção de reaproveitar código ou comportamento generalizado ou especializar operações ou atributos. Então vamos praticar esse conteúdo nessa questão.
@@ -157,6 +158,7 @@ Chamando os Métodos:
 Dica: Utilize console.log() para exibir as informações!
 
 **RESPOSTA**
+<br>
 // cria classe animal
 class Animal {
     // construtor da classe
@@ -202,7 +204,7 @@ let gato = new Gato('Bolinha', 2, 'siamês');
 console.log(cachorro.descreverCachorro());
 console.log(gato.descreverGato()); 
 console.log(gato.miar()); 
-
+<br>
 ______
 
 **9)** Vamos criar um programa em JavaScript para somar notas!
@@ -225,7 +227,7 @@ Chamando o Método para Ver o Total:
 Dica: Utilize console.log() para exibir as informações!
 
 **RESPOSTA**
-
+<br>
 // cria classe somador de notas
 class somadorDeNotas {
     // construtores da classe
@@ -256,7 +258,7 @@ somador.adicionarNota(6)
 
 // printa total no terminal
 somador.verTotal()
-
+<br>
 ______
 
 **10)** Imagine que você está criando um programa em JavaScript para uma escola. Neste programa, existem diferentes tipos de funcionários, cada um com suas próprias características. Considere as seguintes classes:
@@ -277,7 +279,7 @@ Agora, sua tarefa é escrever um código em JavaScript que crie as classes Funci
 - Para cada objeto, chame o método calcularSalario() e mostre o salário calculado no console.
 
 **RESPOSTA**
-
+<br>
 // cria a classe funcionário
 class Funcionario {
     //contrutor da classe
