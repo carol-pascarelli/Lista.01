@@ -6,4 +6,4 @@ while (numero <= 10) {
     numero++;
 }
 
-console.log('A resposta é C')
+console.log('A resposta correta é C')
